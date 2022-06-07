@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@600&family=Pacifico&family=Poppins:wght@600;700&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+
+}
+
+.title {
+    width: 1225px;
+    height: 125px;
+    font-family: Poppins;
+    font-size: 2rem;
+    display: flex;
+    margin-left: 3.5rem;
+    color: #447be2d8;
+    transition: 200ms;
+}
+
+
+.desc-video {
+    width: 1225px;
+    height: 175px;
+
+    font-family: Kdam Thmor Pro;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    text-align: justify;
+
+}
+
+.voltar {
+    font-family: Roboto;
+    font-size: 1rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.video {
+    
+    display: flex;
+    justify-content: center;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    
+}
+
+.voltar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 17rem;
+    margin-right: 3.5rem;
+
+    width: 1000px;
+    height: 191px;
+    
+}
